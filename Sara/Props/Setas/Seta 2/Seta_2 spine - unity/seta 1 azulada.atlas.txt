@@ -1,0 +1,13 @@
+
+seta 1 azulada.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Capa 0
+  rotate: false
+  xy: 2, 2
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
