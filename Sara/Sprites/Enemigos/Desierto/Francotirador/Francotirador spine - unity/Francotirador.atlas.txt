@@ -1,0 +1,90 @@
+
+Francotirador.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brazo ziquierdo
+  rotate: false
+  xy: 192, 14
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+mano izquierdda
+  rotate: false
+  xy: 69, 2
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+rifle
+  rotate: false
+  xy: 134, 66
+  size: 129, 53
+  orig: 129, 53
+  offset: 0, 0
+  index: -1
+tela trasera
+  rotate: false
+  xy: 265, 62
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+tirador brazo derecho
+  rotate: false
+  xy: 408, 71
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+tirador cabeza
+  rotate: false
+  xy: 467, 80
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+tirador lazo
+  rotate: true
+  xy: 340, 78
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+tirador lazo cabeza
+  rotate: false
+  xy: 2, 4
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+tirador ojos 1
+  rotate: true
+  xy: 245, 42
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+tirador ojos disparo
+  rotate: true
+  xy: 245, 18
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+tirador torso
+  rotate: true
+  xy: 2, 24
+  size: 95, 130
+  orig: 95, 130
+  offset: 0, 0
+  index: -1
+tirador turbante
+  rotate: true
+  xy: 134, 13
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
