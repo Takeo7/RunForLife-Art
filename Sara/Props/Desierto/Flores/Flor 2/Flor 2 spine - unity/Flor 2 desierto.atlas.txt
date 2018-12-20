@@ -1,0 +1,13 @@
+
+Flor 2 desierto.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Capa 0
+  rotate: false
+  xy: 2, 2
+  size: 81, 152
+  orig: 81, 152
+  offset: 0, 0
+  index: -1
