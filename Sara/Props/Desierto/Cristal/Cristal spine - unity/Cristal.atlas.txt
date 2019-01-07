@@ -1,0 +1,27 @@
+
+Cristal.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cadena1
+  rotate: false
+  xy: 58, 3
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+cadena2
+  rotate: false
+  xy: 108, 3
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+cristal
+  rotate: false
+  xy: 2, 2
+  size: 54, 103
+  orig: 54, 103
+  offset: 0, 0
+  index: -1
