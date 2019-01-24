@@ -1,0 +1,20 @@
+
+Flor 1 Nieve.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flor 1 nieve azulada
+  rotate: false
+  xy: 2, 2
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+flor 1 nieve normal
+  rotate: false
+  xy: 103, 2
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
