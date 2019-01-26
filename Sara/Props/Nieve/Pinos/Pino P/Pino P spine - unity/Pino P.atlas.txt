@@ -1,0 +1,20 @@
+
+Pino P.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pino p azulado
+  rotate: false
+  xy: 2, 157
+  size: 111, 153
+  orig: 111, 153
+  offset: 0, 0
+  index: -1
+pino p normal
+  rotate: false
+  xy: 2, 2
+  size: 111, 153
+  orig: 111, 153
+  offset: 0, 0
+  index: -1
