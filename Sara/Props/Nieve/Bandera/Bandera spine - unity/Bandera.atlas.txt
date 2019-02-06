@@ -1,0 +1,13 @@
+
+Bandera.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Capa 0
+  rotate: true
+  xy: 2, 2
+  size: 179, 298
+  orig: 179, 298
+  offset: 0, 0
+  index: -1
