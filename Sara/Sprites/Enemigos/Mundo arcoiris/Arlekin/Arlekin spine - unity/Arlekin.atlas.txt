@@ -1,0 +1,153 @@
+
+Arlekin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Capa 4
+  rotate: false
+  xy: 2, 48
+  size: 264, 206
+  orig: 264, 206
+  offset: 0, 0
+  index: -1
+antebrazo derecho
+  rotate: false
+  xy: 759, 177
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+antebrazo izquierdo
+  rotate: false
+  xy: 268, 48
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+boca ataque
+  rotate: true
+  xy: 359, 11
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+boca dano
+  rotate: false
+  xy: 640, 135
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+boca normal
+  rotate: false
+  xy: 598, 134
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+bota derecha
+  rotate: true
+  xy: 254, 3
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+bota izquierda
+  rotate: false
+  xy: 369, 48
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+brazo derecho
+  rotate: false
+  xy: 541, 141
+  size: 55, 113
+  orig: 55, 113
+  offset: 0, 0
+  index: -1
+brazo izquierdo
+  rotate: true
+  xy: 918, 189
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+cabeza
+  rotate: true
+  xy: 833, 190
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+capucha parte delantera
+  rotate: false
+  xy: 405, 122
+  size: 134, 132
+  orig: 134, 132
+  offset: 0, 0
+  index: -1
+capucha parte trasera
+  rotate: false
+  xy: 598, 168
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+cinta trasera torso
+  rotate: false
+  xy: 135, 11
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+mano izquierda
+  rotate: true
+  xy: 198, 7
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+nariz
+  rotate: false
+  xy: 309, 15
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 681, 176
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+pierna derecha
+  rotate: true
+  xy: 72, 8
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+pierna izquierda
+  rotate: true
+  xy: 2, 2
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+placa mano derecha
+  rotate: false
+  xy: 322, 48
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 268, 102
+  size: 135, 152
+  orig: 135, 152
+  offset: 0, 0
+  index: -1
